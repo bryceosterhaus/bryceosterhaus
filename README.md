@@ -1,4 +1,4 @@
-═══════════════════════ (┛ಠ_ಠ)┛彡┻━┻ ═══════════════════════
+(┛ಠ_ಠ)┛彡┻━┻
 
 <!--
 **bryceosterhaus/bryceosterhaus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
