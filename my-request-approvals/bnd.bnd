@@ -1,0 +1,5 @@
+Bundle-Name: my-request-approvals
+Bundle-SymbolicName: com.liferay.my.request.approvals
+Bundle-Version: 1.0.0
+Export-Package: com.liferay.my.request.approvals.constants
+Web-ContextPath: /my-request-approvals
